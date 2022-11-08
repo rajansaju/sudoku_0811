@@ -1,0 +1,112 @@
+.container,
+.container-lg,
+.container-md,
+.container-sm,
+.container-xl,
+.container-xxl {
+   max-width: 1180px !important;
+}
+
+.banner {
+   margin: 30px 0;
+   text-align: center;
+}
+.banner img{
+   max-width: 100%;
+}
+
+.border-btn {
+   border: 1px solid #fd49a024;
+   padding: 8px 29px;
+   border-radius: 5px;
+   color: #fd49a0;
+}
+
+.fill-btn {
+   background: #fd49a0;
+   border-radius: 8px;
+   padding: 15px 30px;
+   color: #fff;
+   box-shadow: 0 4px 15px #fd49a061;
+   text-align: center;
+   text-transform: uppercase;
+}
+
+.border-btn {
+   border: 1px solid #eee;
+   padding: 10px 30px;
+   border-radius: 5px;
+   text-align: center;
+}
+
+/* buttons*/
+
+/* gr-box */
+
+.gr-box {
+   border: 1px solid #fff;
+   padding: 30px;
+   border-radius: 7px;
+   background: #ffffff3b;
+   box-shadow: 5px 10px 30px #00000012;
+}
+
+.gr-box h4 {
+   font-size: 1.6rem;
+   color: #fd49a0;
+   font-family: "Inter Tight", sans-serif;
+   font-weight: 500;
+}
+
+.gr-box.disabled {
+   opacity: 0.5;
+}
+
+.grid-box-container {
+   margin: 25px 0 50px 0;
+}
+
+.image-cover {
+   margin: 40px auto 20px auto;
+}
+
+.gr-box img {
+   max-width: 165px;
+   border-radius: 20px;
+}
+
+.gr-box a.fill-btn {
+   max-width: 210px;
+   margin: 25px auto 10px;
+}
+
+.sudokku-box .gr-box {
+    margin: 0 0 30px 0;
+    padding: 20px;
+}
+
+.rewards {
+    color: #FE934C;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+/* .sudokku-box .gr-box p { color: #4C2F6E; font-size: 16px; } */
+.sudokku-box .gr-box p { color: #fff; font-size: 16px; }
+
+.sudokku-box .gr-box a.fill-btn {float: right; margin: 0;}
+
+.price {
+    padding: 10px 16px;
+    border-radius: 10px;
+    color: #7438c2;
+    background: #7438c21a;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.gr-box a.fill-btn {
+    width: auto;
+    margin: 25px auto 10px;
+    padding: 12px 20px;
+}

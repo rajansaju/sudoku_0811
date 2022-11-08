@@ -1,0 +1,56 @@
+
+/* gr-box table  */
+
+.gr-box table {
+    caption-side: bottom;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.gr-box table th {
+    background: #fff;
+    /* padding: 15px 15px; */
+    padding: 15px 125px 15px 15px;
+    color: #5C2D98;
+    font-weight: 600;
+    box-shadow: 0 0px 2px 0px rgb(0 0 0 / 20%);
+    background-color: #ffe1f96e;
+}
+
+.gr-box table td.actions a {
+    background: #fff;
+    padding: 8px 12px 8px 40px;
+    display: inline-block;
+    border-radius: 30px;
+    margin: 5px 15px 5px 0;
+    box-shadow: 0 4px 5px #0a080812;
+}
+
+.gr-box table td.actions a.play {    
+    color: #15B172;
+    background: url(../../../assets/images/play-icon.svg) #fff;
+    background-repeat: no-repeat;
+    background-position: 15px center;
+}
+.gr-box table td.actions a.claims {
+    color: #FFAD77;
+    background: url(../../../assets/images/claim-icon.svg) #fff;
+    background-repeat: no-repeat;
+    background-position: 15px center;
+}
+
+.gr-box table td.actions a.nill {
+    color: #DF5D77;
+    background: url(../../../assets/images/nill-icon.svg) #fff;
+    background-repeat: no-repeat;
+    background-position: 15px center;
+
+}
+.gr-box table td {
+    border-bottom: 1px solid #fff;
+    padding: 5px 15px;
+    color: #594471;
+    box-shadow: 0 0px 2px 0px rgb(0 0 0 / 20%);
+}
+
+/* gr-box table  */

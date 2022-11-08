@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'DIN Pro Cond';
+    src: url('DINPro-CondensedRegular.woff2') format('woff2'),
+        url('DINPro-CondensedRegular.woff') format('woff'),
+        url('DINPro-CondensedRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DIN Pro Cond';
+    src: url('DINPro-CondensedMedium.woff2') format('woff2'),
+        url('DINPro-CondensedMedium.woff') format('woff'),
+        url('DINPro-CondensedMedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DIN Pro Cond';
+    src: url('DINPro-CondensedBold.woff2') format('woff2'),
+        url('DINPro-CondensedBold.woff') format('woff'),
+        url('DINPro-CondensedBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DIN Pro Cond';
+    src: url('DINPro-CondensedLight.woff2') format('woff2'),
+        url('DINPro-CondensedLight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
